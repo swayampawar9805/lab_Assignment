@@ -5,6 +5,7 @@ list_Candk = []
 list_CorK = []
 list_CandF = []
 list_not_criket_badminton =[]
+list_sample =[]
 
 def criket_student():
     a = str(input("Enter name:"))
