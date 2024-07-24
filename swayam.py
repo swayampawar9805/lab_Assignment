@@ -22,7 +22,6 @@ def football_student():
        list_football.append(f)
 
 def both_criket_badminton():
-    list_merged1 = list_criket + list_badminton
     for i in list_criket:
         for j in list_badminton:
             if i==j:
