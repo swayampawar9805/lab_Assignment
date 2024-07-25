@@ -1,2 +1,1 @@
-# sample
-just practice program
+College lab assignment 
