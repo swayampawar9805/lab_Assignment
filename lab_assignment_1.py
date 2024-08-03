@@ -64,6 +64,7 @@ while e:
      for i in range(0,d):
          badminton_student()
      print(list_badminton)
+     print("FOOTBALL STUDENT")
      d = int(input("Enter number of students:"))
      for i in range(0,d):
          football_student()
